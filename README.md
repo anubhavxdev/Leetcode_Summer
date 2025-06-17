@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -20,4 +21,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0217-contains-duplicate) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
