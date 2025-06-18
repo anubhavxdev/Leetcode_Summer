@@ -9,6 +9,7 @@
 | [0136-single-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
