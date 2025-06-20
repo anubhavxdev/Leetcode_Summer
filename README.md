@@ -69,4 +69,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0215-kth-largest-element-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
