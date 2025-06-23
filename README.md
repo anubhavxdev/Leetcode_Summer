@@ -34,6 +34,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0217-contains-duplicate) |
@@ -45,6 +46,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
@@ -82,9 +84,18 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1388-greatest-sum-divisible-by-three) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
