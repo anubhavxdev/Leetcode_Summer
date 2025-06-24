@@ -29,6 +29,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1388-greatest-sum-divisible-by-three) |
 ## Sorting
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0070-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0148-sort-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
