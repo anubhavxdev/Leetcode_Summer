@@ -31,6 +31,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0397-integer-replacement](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0397-integer-replacement) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1388-greatest-sum-divisible-by-three) |
 ## Sorting
 |  |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0136-single-number) |
+| [0397-integer-replacement](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0397-integer-replacement) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0397-integer-replacement) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1388-greatest-sum-divisible-by-three) |
 ## Linked List
 |  |
@@ -104,4 +107,5 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
