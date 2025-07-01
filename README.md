@@ -133,4 +133,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0046-permutations) |
+## String
+|  |
+| ------- |
+| [3617-find-the-original-typed-string-i](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3617-find-the-original-typed-string-i) |
 <!---LeetCode Topics End-->
