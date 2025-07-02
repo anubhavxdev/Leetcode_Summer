@@ -19,6 +19,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0485-max-consecutive-ones) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -29,6 +30,7 @@
 | [0169-majority-element](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,11 +47,13 @@
 | [0169-majority-element](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0268-missing-number) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1388-greatest-sum-divisible-by-three) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0268-missing-number) |
 | [0397-integer-replacement](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0397-integer-replacement) |
 ## Divide and Conquer
 |  |
@@ -73,6 +77,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -92,6 +97,7 @@
 | [0007-reverse-integer](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
