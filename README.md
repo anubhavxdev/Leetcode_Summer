@@ -57,6 +57,7 @@
 | [0136-single-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0268-missing-number) |
 | [0397-integer-replacement](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0397-integer-replacement) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [0009-palindrome-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0268-missing-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0002-add-two-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -151,4 +154,8 @@
 |  |
 | ------- |
 | [3618-find-the-original-typed-string-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3618-find-the-original-typed-string-ii) |
+## Simulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
