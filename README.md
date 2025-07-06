@@ -24,6 +24,7 @@
 | [0414-third-maximum-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0485-max-consecutive-ones) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0219-contains-duplicate-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0268-missing-number) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,4 +167,8 @@
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
