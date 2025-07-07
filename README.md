@@ -24,6 +24,7 @@
 | [0414-third-maximum-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0485-max-consecutive-ones) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Hash Table
@@ -57,6 +58,7 @@
 | [0268-missing-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0414-third-maximum-number) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0264-ugly-number-ii) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Quickselect
 |  |
 | ------- |
@@ -125,6 +128,7 @@
 | [0011-container-with-most-water](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0011-container-with-most-water) |
 | [0397-integer-replacement](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0397-integer-replacement) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Linked List
 |  |
 | ------- |
