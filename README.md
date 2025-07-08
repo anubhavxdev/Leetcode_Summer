@@ -26,6 +26,7 @@
 | [1388-greatest-sum-divisible-by-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@
 | [0264-ugly-number-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0264-ugly-number-ii) |
 | [0397-integer-replacement](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0397-integer-replacement) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sorting
 |  |
@@ -59,6 +61,7 @@
 | [0414-third-maximum-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0414-third-maximum-number) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,6 +94,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0268-missing-number) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Matrix
 |  |
 | ------- |
