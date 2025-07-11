@@ -28,6 +28,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2479-meeting-rooms-iii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2479-meeting-rooms-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
@@ -41,6 +42,7 @@
 | [0268-missing-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0268-missing-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2479-meeting-rooms-iii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2479-meeting-rooms-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [1388-greatest-sum-divisible-by-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2479-meeting-rooms-iii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2479-meeting-rooms-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -108,6 +111,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0264-ugly-number-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2479-meeting-rooms-iii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2479-meeting-rooms-iii) |
 ## Quickselect
 |  |
 | ------- |
@@ -182,6 +186,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2479-meeting-rooms-iii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
