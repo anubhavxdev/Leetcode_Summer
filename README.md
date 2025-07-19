@@ -23,6 +23,7 @@
 | [0283-move-zeroes](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0485-max-consecutive-ones) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -188,6 +189,7 @@
 ## String
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3396-valid-word](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3618-find-the-original-typed-string-ii) |
@@ -208,4 +210,12 @@
 |  |
 | ------- |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
