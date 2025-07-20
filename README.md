@@ -29,6 +29,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -47,6 +48,7 @@
 | [0268-missing-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0268-missing-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2479-meeting-rooms-iii) |
 ## Dynamic Programming
 |  |
@@ -190,6 +192,7 @@
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3396-valid-word](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3618-find-the-original-typed-string-ii) |
@@ -218,4 +221,9 @@
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2079-delete-duplicate-folders-in-system) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
