@@ -27,6 +27,7 @@
 | [1388-greatest-sum-divisible-by-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -48,6 +49,7 @@
 | [0264-ugly-number-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0268-missing-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2479-meeting-rooms-iii) |
@@ -103,6 +105,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0219-contains-duplicate-ii) |
+| [1813-maximum-erasure-value](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1813-maximum-erasure-value) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Binary Search
 |  |
