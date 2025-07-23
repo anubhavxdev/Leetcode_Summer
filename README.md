@@ -158,6 +158,7 @@
 | [0397-integer-replacement](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0397-integer-replacement) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -199,6 +200,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3396-valid-word](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3617-find-the-original-typed-string-i) |
@@ -233,4 +235,8 @@
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2079-delete-duplicate-folders-in-system) |
+## Stack
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
