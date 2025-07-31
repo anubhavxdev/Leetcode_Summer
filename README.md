@@ -23,6 +23,7 @@
 | [0283-move-zeroes](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0485-max-consecutive-ones) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -68,6 +69,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0264-ugly-number-ii) |
 | [0397-integer-replacement](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0397-integer-replacement) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -95,6 +97,7 @@
 | [0136-single-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0268-missing-number) |
 | [0397-integer-replacement](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0397-integer-replacement) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
