@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0074-search-a-2d-matrix) |
+| [0118-pascals-triangle](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0264-ugly-number-ii) |
 | [0397-integer-replacement](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0397-integer-replacement) |
