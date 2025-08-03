@@ -34,6 +34,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -126,6 +127,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0219-contains-duplicate-ii) |
 | [1813-maximum-erasure-value](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Binary Search
@@ -138,6 +140,7 @@
 | [0162-find-peak-element](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0268-missing-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Matrix
 |  |
@@ -233,6 +236,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3618-find-the-original-typed-string-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3618-find-the-original-typed-string-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Simulation
