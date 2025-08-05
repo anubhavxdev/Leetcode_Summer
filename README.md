@@ -50,6 +50,7 @@
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3790-fruits-into-baskets-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -247,6 +249,7 @@
 | ------- |
 | [2479-meeting-rooms-iii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
 |  |
 | ------- |
@@ -283,8 +286,13 @@
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3790-fruits-into-baskets-ii) |
 ## Brainteaser
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
