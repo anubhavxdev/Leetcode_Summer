@@ -79,6 +79,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0264-ugly-number-ii) |
 | [0397-integer-replacement](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0397-integer-replacement) |
+| [0826-soup-servings](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -177,6 +178,7 @@
 | [0070-climbing-stairs](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0268-missing-number) |
+| [0826-soup-servings](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0826-soup-servings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Two Pointers
@@ -302,4 +304,8 @@
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
