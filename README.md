@@ -63,6 +63,7 @@
 | [0219-contains-duplicate-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0268-missing-number) |
+| [0900-reordered-power-of-2](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1813-maximum-erasure-value) |
@@ -98,6 +99,7 @@
 | [0217-contains-duplicate](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0414-third-maximum-number) |
+| [0900-reordered-power-of-2](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0900-reordered-power-of-2) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -128,6 +130,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0169-majority-element) |
+| [0900-reordered-power-of-2](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Sliding Window
 |  |
@@ -181,6 +184,7 @@
 | [0264-ugly-number-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0268-missing-number) |
 | [0826-soup-servings](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0900-reordered-power-of-2) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Two Pointers
@@ -267,6 +271,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
