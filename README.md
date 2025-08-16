@@ -191,6 +191,7 @@
 | [0342-power-of-four](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0900-reordered-power-of-2) |
+| [1448-maximum-69-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1448-maximum-69-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Two Pointers
@@ -206,6 +207,7 @@
 | [0011-container-with-most-water](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0011-container-with-most-water) |
 | [0397-integer-replacement](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0397-integer-replacement) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1448-maximum-69-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2497-maximum-matching-of-players-with-trainers) |
