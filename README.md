@@ -82,6 +82,7 @@
 | [0264-ugly-number-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0264-ugly-number-ii) |
 | [0397-integer-replacement](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0397-integer-replacement) |
 | [0826-soup-servings](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -141,6 +142,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0219-contains-duplicate-ii) |
+| [0867-new-21-game](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -190,6 +192,7 @@
 | [0326-power-of-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1448-maximum-69-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -328,4 +331,5 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
