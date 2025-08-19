@@ -40,6 +40,7 @@
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -197,6 +198,7 @@
 | [0867-new-21-game](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Two Pointers
