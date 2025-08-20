@@ -29,6 +29,7 @@
 | [0940-fruit-into-baskets](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0940-fruit-into-baskets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1813-maximum-erasure-value) |
@@ -87,6 +88,7 @@
 | [0867-new-21-game](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/0074-search-a-2d-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/anubhavxdev/Leetcode_Summer/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Heap (Priority Queue)
 |  |
